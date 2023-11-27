@@ -10,15 +10,12 @@ Bem-vindo à galeria de imagens do **Rei da Selva**! 🦁 Este projeto apresenta
 
 
 ## Demo
-Confira a demonstração ao vivo [aqui](#).
+Confira a demonstração ao vivo [aqui](https://devdiegolima.github.io/Projeto_Lazy_Load_Lyon/).
 
 ## Recursos
 - **Carregamento Preguiçoso**: As imagens são carregadas dinamicamente conforme entram na área visível do usuário, reduzindo o tempo de carregamento inicial da página.
 - **Design Responsivo**: A galeria foi projetada para ser responsiva e visualmente atraente em vários dispositivos.
 - **Simples e Limpo**: Design minimalista com foco na beleza das imagens de leões.
-
-## Imagem do projeto
-
 
 
 ## Como Funciona
